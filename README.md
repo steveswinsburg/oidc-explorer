@@ -1,2 +1,2 @@
-# oidc-verifier
+# oidc-explorer
 A simple OIDC callback token viewer
