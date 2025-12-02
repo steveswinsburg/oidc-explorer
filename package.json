@@ -1,0 +1,17 @@
+{
+  "name": "oidc-explorer",
+  "version": "0.1.0",
+  "private": true,
+  "description": "An OIDC callback viewer for debugging OAuth flows",
+  "license": "Apache 2.0",
+  "author": "Steve Swinsburg",
+  "type": "commonjs",
+  "scripts": {
+    "start": "node server.js",
+    "dev": "PORT=9090 node server.js"
+  },
+  "engines": {
+    "node": ">=20"
+  },
+  "dependencies": {}
+}
